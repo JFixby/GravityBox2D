@@ -1,0 +1,9 @@
+dependencies {
+      compile "com.github.RedTriplane.Gravity:gravity-api:$gravityAPILevel"
+      
+      compile "com.github.RedTriplane.Box2D:box2d-api:$box2DAPILevel"
+
+
+}
+
+	

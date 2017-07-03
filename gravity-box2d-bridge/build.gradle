@@ -1,0 +1,7 @@
+dependencies {
+      compile project(":gravity-box2d")
+      //compile "com.github.Scarabei.ScarabeiAPI:scarabei-api:$scarabeiAPILevel"
+
+}
+
+	
